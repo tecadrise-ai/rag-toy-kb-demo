@@ -1,5 +1,7 @@
 # Aurora Toy RAG (public demo)
 
+**Repository:** [github.com/tecadrise-ai/rag-toy-kb-demo](https://github.com/tecadrise-ai/rag-toy-kb-demo)
+
 Small **retrieval augmented generation** demo for learning and portfolio use. The knowledge base is **100% fake**: a helpdesk for a made up company, **Aurora Bean Roasters** (B2B coffee wholesaler). It is **not** related to any client project.
 
 **What it does**
