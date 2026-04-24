@@ -1,0 +1,38 @@
+[
+  {
+    "id": "pb-001",
+    "title": "Customer says the shipment is late",
+    "scenario": "late delivery complaint",
+    "text": "First confirm the carrier tracking number and the service level. If ground, cite the standard 2 day handling plus 3 to 6 day transit, and the customer zone. If the package is still inside that window, set expectations. If it is past the window, open a carrier trace and offer a service credit if policy allows. If cold chain, ask for the logger file before promising a remake."
+  },
+  {
+    "id": "pb-002",
+    "title": "Temperature log shows a break",
+    "scenario": "temperature logger alarm",
+    "text": "Ask for a photo or export of the logger timeline. If the break exceeds 30 minutes above 55F, open a quality ticket within 24 hours. Request photos of the bags. Do not promise replacement before quality reviews the ticket. If the sku was not cold chain, explain that the cold chain policy does not apply."
+  },
+  {
+    "id": "pb-003",
+    "title": "Wants to return unopened retail bags",
+    "scenario": "return request",
+    "text": "Check invoice date. If within 30 days and the bags are unopened, explain the 10 percent restocking fee. If the product is private label or a custom profile, returns are not available unless they have a documented quality failure. Provide the returns form and the warehouse receiving address on the return policy page."
+  },
+  {
+    "id": "pb-004",
+    "title": "Account on credit hold",
+    "scenario": "order blocked credit hold",
+    "text": "Look up the account age of past due balance. If more than 15 days past due, the account may be on hold per billing policy. The customer can pay the overdue portion or set up a payment plan with finance. Do not override credit hold in the helpdesk. Escalate to AR if they dispute the balance."
+  },
+  {
+    "id": "pb-005",
+    "title": "Disagrees with our cupping score",
+    "scenario": "quality dispute cupping",
+    "text": "Offer the split sample process. They must request within 5 business days of the notice. We compare their sealed sample to our lab. If scores differ by more than 1 point, a manager can approve replacement or credit. Do not promise outcomes before the lab comparison is complete."
+  },
+  {
+    "id": "pb-006",
+    "title": "Lift gate not requested, driver refused delivery",
+    "scenario": "freight accessorial dispute",
+    "text": "Check whether lift gate was on the service order. If not, explain that it must be requested at order time and new fees may apply for redelivery. Share receiving hours 6am to 2pm and dock requirements. If inside delivery was expected, verify whether a service order exists."
+  }
+]

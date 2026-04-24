@@ -1,0 +1,44 @@
+[
+  {
+    "id": "pol-ship-01",
+    "title": "Ground shipping lead times",
+    "category": "shipping",
+    "text": "Standard ground orders ship within 2 business days. Transit is 3 to 6 business days depending on the destination zone. Alaska and Hawaii use extended timelines published on the rate sheet. Express options are not available for palletized freight."
+  },
+  {
+    "id": "pol-ship-02",
+    "title": "Cold chain and temperature control",
+    "category": "shipping",
+    "text": "Refrigerated green coffee must use approved carriers with temperature loggers. If the logger shows a break above 55F for more than 30 minutes, the receiver must file a quality ticket within 24 hours. Non cold chain skus are not covered by this rule."
+  },
+  {
+    "id": "pol-ret-01",
+    "title": "Return window and restocking",
+    "category": "returns",
+    "text": "Unopened retail bags may be returned within 30 days of invoice date. A 10 percent restocking fee applies. Private label and custom roast profiles are not eligible for return unless there is a documented quality failure."
+  },
+  {
+    "id": "pol-bill-01",
+    "title": "Net terms and late fees",
+    "category": "billing",
+    "text": "Net 30 is the default. Accounts more than 15 days past due may be placed on credit hold. Late fees are 1.5 percent per month on the overdue balance, rounded to the nearest dollar."
+  },
+  {
+    "id": "pol-qc-01",
+    "title": "Cupping disputes",
+    "category": "quality",
+    "text": "If a batch fails internal cupping, the customer can request a split sample at our lab within 5 business days. We will compare to the original sealed sample. If scores diverge by more than 1 point, we replace or credit at manager discretion."
+  },
+  {
+    "id": "pol-data-01",
+    "title": "Customer data and PII in tickets",
+    "category": "compliance",
+    "text": "Do not place full credit card numbers in helpdesk notes. Use the tokenized last four only. Personal addresses must be redacted in screenshots that are shared outside the support pod."
+  },
+  {
+    "id": "pol-wh-01",
+    "title": "Pallet and dock requirements",
+    "category": "operations",
+    "text": "Deliveries that require a lift gate must be requested at order time. Inside delivery is not included unless a separate service order is on file. Receiving hours are 6am to 2pm local time, Monday to Friday."
+  }
+]
